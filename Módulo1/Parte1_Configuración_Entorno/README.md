@@ -1,4 +1,4 @@
-# Módulo 1: Configuración del Entorno de Python
+# Configuración del Entorno de Python
 
 En este módulo, configuraremos el entorno de desarrollo que utilizaremos durante todo el curso-taller. Esto incluye la instalación de Python, Visual Studio Code (VSC), y las extensiones necesarias para trabajar de manera eficiente.
 
