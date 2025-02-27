@@ -9,7 +9,7 @@ Este repositorio contiene las instrucciones y archivos necesarios para configura
 Para comenzar, clona este repositorio en tu equipo local ejecutando el siguiente comando en la terminal o consola de Git:
 
 ```bash
-git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+[git clone https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/maxnm01/Python-Workshop.git)
 cd nombre_del_repositorio
 ```
 
