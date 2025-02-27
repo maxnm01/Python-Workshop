@@ -10,7 +10,7 @@ Para comenzar, clona este repositorio en tu equipo local ejecutando el siguiente
 
 ```bash
 https://github.com/maxnm01/Python-Workshop.git
-cd nombre_del_repositorio
+cd Python-Workshop
 ```
 
 ### **2. Instalación de Visual Studio Code**
