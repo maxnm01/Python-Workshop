@@ -1,0 +1,10 @@
+2024-06-01 12:00:01, INFO, Router1, Link Up
+2024-06-01 12:05:42, ERROR, Router2, Link Down
+2024-06-01 12:07:55, WARN, Switch3, High CPU Usage
+2024-06-01 12:10:00, INFO, Router1, Link Down
+2024-06-01 12:15:10, INFO, Router2, Link Up
+2024-06-01 12:20:33, INFO, Router3, Link Down
+2024-06-01 12:22:21, ERROR, Router1, Link Down
+2024-06-01 12:30:42, INFO, Router3, Link Up
+2024-06-01 12:32:15, WARN, Switch2, High Memory Usage
+2024-06-01 12:35:20, INFO, Router2, Link Down
